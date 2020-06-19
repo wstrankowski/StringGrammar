@@ -1,0 +1,6 @@
+C:\WAT\JFK\StringGrammarJFK-master\StringGrammar\obj\Debug\StringGrammarLexer.cs
+C:\WAT\JFK\StringGrammarJFK-master\StringGrammar\obj\Debug\StringGrammarParser.cs
+C:\WAT\JFK\StringGrammarJFK-master\StringGrammar\obj\Debug\StringGrammarListener.cs
+C:\WAT\JFK\StringGrammarJFK-master\StringGrammar\obj\Debug\StringGrammarBaseListener.cs
+C:\WAT\JFK\StringGrammarJFK-master\StringGrammar\obj\Debug\StringGrammarVisitor.cs
+C:\WAT\JFK\StringGrammarJFK-master\StringGrammar\obj\Debug\StringGrammarBaseVisitor.cs
